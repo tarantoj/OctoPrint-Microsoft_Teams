@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_microsoft_teams/templates *
+recursive-include octoprint_microsoft_teams/translations *
+recursive-include octoprint_microsoft_teams/static *
